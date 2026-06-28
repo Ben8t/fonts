@@ -1,0 +1,9 @@
+/* Webfont: Flaviotte-Regular */@font-face {
+    font-family: 'Flaviotte';
+    src: url('Flaviotte.woff2') format('woff2'), /* Modern Browsers */
+         url('Flaviotte.otf') format('opentype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
